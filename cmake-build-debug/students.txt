@@ -1,0 +1,2 @@
+ID: 1, Name: amir, Age: 13, Course: math
+ID: 2, Name: ali, Age: 15, Course: math
